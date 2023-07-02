@@ -1034,9 +1034,6 @@ emoji-picker {
 .profile-additional-birth-me:before {
     color: currentColor;
 }
-.profile-additional-birth-me {
-    background-color: currentColor;
-}
 .profile-additional-birth-me:hover {
     background-color: var(--darker-background-color);
 }
